@@ -1,5 +1,7 @@
 # Shoelace
 
+[![Build CDN Assets and Publish to R2](https://github.com/di-dao/shoelace/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/di-dao/shoelace/actions/workflows/publish.yml)
+
 A forward-thinking library of web components.
 
 - Works with all frameworks 🧩
